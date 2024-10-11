@@ -49,7 +49,7 @@
 
 # App Demo Link
 
-`Demo`: [Link](appscrip-venkykumar.vercel.app)
+`Demo`: [Link](appscrip-venkykumar.netlify.app)
 
 ## Getting Started🎯
 
